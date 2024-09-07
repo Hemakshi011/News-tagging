@@ -29,7 +29,7 @@ Tags: keywords used in the article.
 
 
 ## Methodology
-![Methodology](https://github.com/Hemakshi011/News-tagging/blob/main/Screenshot%202024-09-07%20220225.png)
+![Methodology](https://github.com/Hemakshi011/News-tagging/blob/main/Methodology.png)
 
 
 
