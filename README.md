@@ -32,6 +32,9 @@ Tags: keywords used in the article.
 ![Methodology](https://github.com/Hemakshi011/News-tagging/blob/main/Methodology.png)
 
 
+## Workflow
+![Workflow](https://github.com/Hemakshi011/News-tagging/blob/main/Workflow.jpg)
+
 
 
 
